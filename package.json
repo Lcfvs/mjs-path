@@ -1,0 +1,30 @@
+{
+  "name": "mjs-path",
+  "version": "1.0.0",
+  "description": "An utility to resolve some mjs/installed modules paths",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcfvs/mjs-path.git"
+  },
+  "keywords": [
+    "mjs",
+    "installed",
+    "node_modules",
+    "modules",
+    "paths"
+  ],
+  "author": "lcf.vs <michael.rouges@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/mjs-path/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/mjs-path#readme",
+  "dependencies": {
+    "@lcf.vs/curryable": "^1.0.4",
+    "@lcf.vs/object": "^1.0.2"
+  }
+}
